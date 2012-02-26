@@ -1,0 +1,13 @@
+[...]
+
+default_asides: [asides/recent_posts.html, asides/twitter.html,asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html, custom/asides/bitbucket.html]
+
+[...]
+
+# Bitbucket repositories
+bitbucket_user: your_username
+# bitbucket_password: your_password
+# bitbucket_require_wiki: true
+bitbucket_repo_count: 4
+bitbucket_show_profile_link: true
+bitbucket_skip_forks: true
