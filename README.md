@@ -13,7 +13,7 @@ First of all you need to copy files:
 
 Then you need to update the _config.yml file:
 
-* add *'custom/asides/flickr.html'* to *default_asides*
+* add *'custom/asides/bitbucket.html'* to *default_asides*
 * add bitbucket settings at the end of the file:
 
 ```
