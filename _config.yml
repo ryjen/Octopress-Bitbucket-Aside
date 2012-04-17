@@ -6,7 +6,7 @@ default_asides: [asides/recent_posts.html, asides/twitter.html,asides/github.htm
 
 # Bitbucket repositories
 bitbucket_user: your_username
-# bitbucket_password: your_password
+# bitbucket_password: your_password_(in_base_64)
 # bitbucket_require_wiki: true
 bitbucket_repo_count: 4
 bitbucket_show_profile_link: true
