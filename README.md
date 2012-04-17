@@ -7,7 +7,7 @@ It was largely copied from the github aside. I have included support for a passw
 ## TODO ##
 
 If you want better security for your password in the configuration, you can put an encrypted form in the file - but you will have to implement the decryption method in javascript to use it.
-I use base64 as I'm not too concerned with this but I feel its out of scope because of the size of the implementation code.
+I use base64 for this as a better than nothing implementation but I feel its out of scope for this repo.
 
 ## How to use it
 
