@@ -4,6 +4,8 @@ This is a simple aside for <a href="http://www.octopress.org">Octopress</a> that
 
 It was largely copied from the github aside. I have included support for a password to gain access to your private repositories (This is insecure I know, see below).  If you remove the password variable in the configuration, only your public repositories will be listed.
 
+While you can't access code from private repos, you can view the wiki.
+
 ## TODO ##
 
 If you want better security for your password in the configuration, you can put an encrypted form in the file - but you will have to implement the decryption method in javascript to use it.
