@@ -16,7 +16,7 @@ var bitbucket = (function() {
 
             $.ajax({
                 url: "https://"+auth+host+options.user + "?callback=?",
-                type: "jsonp",
+                dataType: "jsonp",
                 error: function(err, status) {
                     $(options.target + ' li.loading').addClass('error').text("Error loading feed");
                 },
